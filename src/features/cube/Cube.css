@@ -1,0 +1,6 @@
+.cube {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: solid 1px black;
+};
